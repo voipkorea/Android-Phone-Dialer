@@ -1,0 +1,6 @@
+Android Phone Dialer
+version 0.0.2
+ 
+A first step, learning Android application.
+Takes a phone number as text input and calls the in-build phone
+dialer activity.
